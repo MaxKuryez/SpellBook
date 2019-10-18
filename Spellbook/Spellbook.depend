@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1560759817 source:c:\users\hp\desktop\advancedalg\spellbook\spellbook\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Speller.h"
+
+1560759861 source:c:\users\hp\desktop\advancedalg\spellbook\spellbook\src\speller.cpp
+	"Speller.h"
+	<vector>
+	<string>
+	<iostream>
+
+1560759841 c:\users\hp\desktop\advancedalg\spellbook\spellbook\include\speller.h
+	<vector>
+	<string>
+	<set>
+
+1560787338 source:c:\users\hp\desktop\advancedalg\spellbook\src\speller.cpp
+	"Speller.h"
+	<vector>
+	<string>
+	<iostream>
+
+1560759841 c:\users\hp\desktop\advancedalg\spellbook\include\speller.h
+	<vector>
+	<string>
+	<set>
+
+1560788476 source:c:\users\hp\desktop\advancedalg\spellbook\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Speller.h"
+	<fstream>
+	<streambuf>
+	<chrono>
+	<windows.h>
+	<iomanip>
+
+1560788624 source:c:\users\hp\desktop\secondassignmentmaksimkuryez\spellbook\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Speller.h"
+	<fstream>
+	<streambuf>
+	<chrono>
+	<windows.h>
+	<iomanip>
+
+1560759841 c:\users\hp\desktop\secondassignmentmaksimkuryez\spellbook\include\speller.h
+	<vector>
+	<string>
+	<set>
+
+1560787338 source:c:\users\hp\desktop\secondassignmentmaksimkuryez\spellbook\src\speller.cpp
+	"Speller.h"
+	<vector>
+	<string>
+	<iostream>
+
